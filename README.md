@@ -1,2 +1,2 @@
 # blink
-[![asciicast](https://asciinema.org/a/jhX6mOI3CRwPGcFSPYyu9gpVf.svg)](https://asciinema.org/a/jhX6mOI3CRwPGcFSPYyu9gpVf)
+[![asciicast](https://asciinema.org/a/tom6PK6z1dPXS5b8a2NKH8xUJ.svg)](https://asciinema.org/a/tom6PK6z1dPXS5b8a2NKH8xUJ)
